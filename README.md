@@ -19,3 +19,6 @@ Project Structure
 ├── README.md
 └── requirements.txt
 
+Data Sources
+Stock Data: Extracted using the yfinance library.
+Revenue Data: Scraped from webpages using the requests and BeautifulSoup libraries.
