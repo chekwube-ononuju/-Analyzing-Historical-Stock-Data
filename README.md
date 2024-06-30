@@ -2,8 +2,6 @@ Welcome to the hands-on lab where I analyzed historical stock and revenue data a
 
 Requirements
 To complete this lab, you will need:
-
 Python 3.x
 Jupyter Notebook
 Libraries: yfinance, requests, beautifulsoup4, pandas, matplotlib, plotly
-Internet access to download data
