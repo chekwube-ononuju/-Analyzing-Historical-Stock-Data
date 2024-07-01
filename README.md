@@ -4,7 +4,7 @@ Requirements
 To complete this lab, you will need:
 Python 3.x
 Jupyter Notebook
-Libraries: yfinance, requests, beautifulsoup4, pandas, matplotlib, plotl
+Libraries: yfinance, requests, beautifulsoup4, pandas, matplotlib, plotly
 Project Structure
 .
 ├── data
