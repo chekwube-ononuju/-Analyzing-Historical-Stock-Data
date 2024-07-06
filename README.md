@@ -20,4 +20,4 @@ Project Structure
 
 Data Sources
 Stock Data: Extracted using the yfinance library.
-Revenue Data: Scraped from webpages using the requests and BeautifulSoup libraries.
+Revenue Data: Scraped from webpages using the requests and BeautifulSoup libraries
